@@ -1,4 +1,5 @@
-a=int(input("Ingrese numero: "))
+print "..:: CUENTAS BASICAS ::..\n"
+a=int(input("Ingrese primer numero: "))
 b=int(input("Ingrese segundo numero: "))
 
 suma=a+b
